@@ -1,8 +1,9 @@
-<p align="center" dir="auto">
+
+<p align="left" dir="auto">
   <img align="center" width="100" src="https://javierlo.com/assets/logo/javi-writing.svg" alt="logo" style="max-width: 100%;">
 </p>
-<h1 align="center">Hi I'm Javi</h1>
-<p align="center">I'm a product designer. Checkout some of my experiments on <a href="https://javierlo.com" target="_blank">my site</a>.</p>
+<h3 align="left">Hi I'm Javi</h3>
+<p align="left">I'm a product designer. Checkout some of my experiments on <a href="https://javierlo.com" target="_blank">my site</a>.</p>
 
 ### When I code I use...
 - HTML
@@ -12,8 +13,8 @@
 - Tailwind
 - Motion.dev
 
-## My tools
-- Zed
+### My tools
+- Zed (Now I'm experimenting with Cursor)
 - Claude Code
 - Figma
 - Jitter
